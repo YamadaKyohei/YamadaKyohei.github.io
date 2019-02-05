@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topics on Kyohei Yamada, UEC</title>
-    <link>/topics/</link>
+    <link>https://yamadakyohei.github.io/topics/</link>
     <description>Recent content in Topics on Kyohei Yamada, UEC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 04 Feb 2019 18:25:54 +0900</lastBuildDate>
     
-	<atom:link href="/topics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yamadakyohei.github.io/topics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>NICT OpenHouse 2018 学生ポスターセッションでアイデア賞を受賞しました</title>
-      <link>/topics/nict_openhouse2018/</link>
+      <link>https://yamadakyohei.github.io/topics/nict_openhouse2018/</link>
       <pubDate>Mon, 04 Feb 2019 18:27:56 +0900</pubDate>
       
-      <guid>/topics/nict_openhouse2018/</guid>
+      <guid>https://yamadakyohei.github.io/topics/nict_openhouse2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GUGEN 2018 で共立電子産業賞を受賞しました</title>
-      <link>/topics/gugen2018/</link>
+      <link>https://yamadakyohei.github.io/topics/gugen2018/</link>
       <pubDate>Mon, 04 Feb 2019 18:27:15 +0900</pubDate>
       
-      <guid>/topics/gugen2018/</guid>
+      <guid>https://yamadakyohei.github.io/topics/gugen2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CEATAC 2018に2ブースで研究成果を出展しました</title>
-      <link>/topics/ceatec2018/</link>
+      <link>https://yamadakyohei.github.io/topics/ceatec2018/</link>
       <pubDate>Fri, 19 Oct 2018 18:27:56 +0900</pubDate>
       
-      <guid>/topics/ceatec2018/</guid>
+      <guid>https://yamadakyohei.github.io/topics/ceatec2018/</guid>
       <description> 2018年10月16日(火) - 19日(金) 幕張メッセ C-3 less 電力センサを2ブースに出展 スタートアップ&amp;amp;ユニバーシティエリアの東京高専のブース  https://www.ceatec.com/ja/showfloor/detail.html?id=13078  トータルソリューションエリアの泰興物産(株)のブース  https://www.ceatec.com/ja/showfloor/detail.html?id=12880   </description>
     </item>
     
     <item>
       <title>IVRC2018予選大会に2テーマで出場しました</title>
-      <link>/topics/ivrc2018/</link>
+      <link>https://yamadakyohei.github.io/topics/ivrc2018/</link>
       <pubDate>Fri, 21 Sep 2018 18:28:07 +0900</pubDate>
       
-      <guid>/topics/ivrc2018/</guid>
+      <guid>https://yamadakyohei.github.io/topics/ivrc2018/</guid>
       <description> 2018年9月19日（水） ～ 9月21日（金） 東北大学「青葉山キャンパス」 「回路のお医者さん」　電気通信大学 大学院情報理工学研究科 情報学専攻 広田・野嶋研究室(チーム名: この手に限る) 「異世界（あちら）のお客様から」　電気通信大学 情報学専攻 野嶋研究室(チーム名: ガチ恋距離) http://ivrc.net/2018/release1/  </description>
     </item>
     
     <item>
       <title>Maker Faire Tokyo 2018 に2ブースで出展しました</title>
-      <link>/topics/makerfaire2018/</link>
+      <link>https://yamadakyohei.github.io/topics/makerfaire2018/</link>
       <pubDate>Sun, 05 Aug 2018 18:27:56 +0900</pubDate>
       
-      <guid>/topics/makerfaire2018/</guid>
+      <guid>https://yamadakyohei.github.io/topics/makerfaire2018/</guid>
       <description> 東京ビッグサイト 2018年8月4日(土) - 5日(日) 2箇所のブースで、それぞれのプロジェクトの成果物をデモ展示しました。 共同研究先の泰興物産  https://makezine.jp/event/makers2018/m0203/  電気通信大学 野嶋研究室  https://makezine.jp/event/makers2018/m0051/   </description>
     </item>
     
     <item>
       <title>社会実装教育フォーラムで社会実装大賞を受賞しました</title>
-      <link>/topics/socialimpl2018/</link>
+      <link>https://yamadakyohei.github.io/topics/socialimpl2018/</link>
       <pubDate>Sat, 03 Mar 2018 18:27:56 +0900</pubDate>
       
-      <guid>/topics/socialimpl2018/</guid>
+      <guid>https://yamadakyohei.github.io/topics/socialimpl2018/</guid>
       <description> 2018年3月2日(金) - 3日(土) 国立オリンピック記念青少年総合センター 山田恭平, 無給電電力センサを落ちいた創業監視と省エネ対策 全国高専が参加する、社会実装研究の成果を発表する大会でした。 1日目が全50チームによるポスターセッションで、2日目が選抜された6チームによるプレゼンテーションでした。 私の発表は6件の最終プレゼンに選ばれ、その上で最優秀の社会実装大賞を受賞しました。 http://www.innovative-kosen.jp/dev/平成29年度最終報告会の結果-1/ 最終プレゼンの動画はこちらでご覧いただけます  http://www.innovative-kosen.jp/dev/平成29年度最終報告会の結果-1/平成29年度ファイナル発表-1/#H29-fi_01  なお、社会実装賞(構想)を受賞した「IoTを活用した学校環境可視化システムの開発」は、私の開発したデバイスを用いた研究です。後輩の方々がこれを使ったシステムを構築して、実験してくださいました。  </description>
     </item>
     
     <item>
       <title>高専ワイヤレスIoTコンテストに採択されました</title>
-      <link>/topics/kosen_iot_contest/</link>
+      <link>https://yamadakyohei.github.io/topics/kosen_iot_contest/</link>
       <pubDate>Thu, 12 Oct 2017 12:27:56 +0900</pubDate>
       
-      <guid>/topics/kosen_iot_contest/</guid>
+      <guid>https://yamadakyohei.github.io/topics/kosen_iot_contest/</guid>
       <description>無線技術を活用した地域課題の解決アイデアを募集する、全国高専を対象にしたコンテストです。 26件の応募の中から6件の研究アイデアが採択され、その中の一つに私のテーマが選ばれました。
 中小企業の工作機械を電力センサでIoT化し、生産性と労働環境の改善に資するという内容です。
 　選考は書類選考とWeb中継プレゼンによって行われました。大変緊張しましたが、自分の意見が伝わったことが採択で実感でき、大きな自信になりました。
@@ -79,29 +79,29 @@
     
     <item>
       <title>CEATAC 2017に研究成果を出展しました</title>
-      <link>/topics/ceatec2017/</link>
+      <link>https://yamadakyohei.github.io/topics/ceatec2017/</link>
       <pubDate>Wed, 04 Oct 2017 18:27:56 +0900</pubDate>
       
-      <guid>/topics/ceatec2017/</guid>
+      <guid>https://yamadakyohei.github.io/topics/ceatec2017/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>インタラクション2016で発表し、Webメディアで紹介されました</title>
-      <link>/topics/interaction2016/</link>
-      <pubDate>Fri, 04 Mar 2016 18:27:56 +0900</pubDate>
+      <title>実証実験を行い、新聞2紙に紹介されました</title>
+      <link>https://yamadakyohei.github.io/topics/interaction2016/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/topics/interaction2016/</guid>
-      <description>初めての論文、学会発表、Webメディア取材対応だったので、大変緊張しました。 ここで外部の先生方と知り合うことができ、別の研究会へ参加
-様子は 【インタラクション2016】「Sota × 電力センサー」で離れて暮らす家族をもっと身近に https://robotstart.info/2016/03/17/report-interaction2016.html</description>
+      <guid>https://yamadakyohei.github.io/topics/interaction2016/</guid>
+      <description>静岡県浜松市水窪町の空き家をお借りして、電力センサで生活をモニタする実証実験を行いました。 実験の様子は静岡新聞さま、中日新聞さまに記事にしていただきました。
+ Yahoo!ニュース, 高齢者スマホで見守り 東京高専が実験  https://headlines.yahoo.co.jp/hl?a=20151205-00000017-at_s-l22 (リンク切れ)   </description>
     </item>
     
     <item>
       <title>実証実験を行い、新聞2紙に紹介されました</title>
-      <link>/topics/wtp2018/</link>
+      <link>https://yamadakyohei.github.io/topics/wtp2018/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/topics/wtp2018/</guid>
+      <guid>https://yamadakyohei.github.io/topics/wtp2018/</guid>
       <description>静岡県浜松市水窪町の空き家をお借りして、電力センサで生活をモニタする実証実験を行いました。 実験の様子は静岡新聞さま、中日新聞さまに記事にしていただきました。
  Yahoo!ニュース, 高齢者スマホで見守り 東京高専が実験  https://headlines.yahoo.co.jp/hl?a=20151205-00000017-at_s-l22 (リンク切れ)   </description>
     </item>

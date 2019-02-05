@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Kyohei Yamada, UEC</title>
-    <link>/projects/</link>
+    <link>https://yamadakyohei.github.io/projects/</link>
     <description>Recent content in Projects on Kyohei Yamada, UEC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 03 Feb 2019 16:03:27 +0900</lastBuildDate>
     
-	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yamadakyohei.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>C-3 less 電力センサ</title>
-      <link>/projects/powersensor/</link>
+      <link>https://yamadakyohei.github.io/projects/powersensor/</link>
       <pubDate>Sun, 03 Feb 2019 16:15:21 +0900</pubDate>
       
-      <guid>/projects/powersensor/</guid>
+      <guid>https://yamadakyohei.github.io/projects/powersensor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ガスにゃん</title>
-      <link>/projects/gasnyan/</link>
+      <link>https://yamadakyohei.github.io/projects/gasnyan/</link>
       <pubDate>Sun, 03 Feb 2019 17:15:17 +0900</pubDate>
       
-      <guid>/projects/gasnyan/</guid>
+      <guid>https://yamadakyohei.github.io/projects/gasnyan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>回路のお医者さん</title>
-      <link>/projects/circuitdoctor/</link>
+      <link>https://yamadakyohei.github.io/projects/circuitdoctor/</link>
       <pubDate>Sun, 03 Feb 2019 16:46:32 +0900</pubDate>
       
-      <guid>/projects/circuitdoctor/</guid>
+      <guid>https://yamadakyohei.github.io/projects/circuitdoctor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>イノシシ罠監視システム</title>
-      <link>/projects/boartrap/</link>
+      <link>https://yamadakyohei.github.io/projects/boartrap/</link>
       <pubDate>Sun, 03 Feb 2019 17:23:58 +0900</pubDate>
       
-      <guid>/projects/boartrap/</guid>
+      <guid>https://yamadakyohei.github.io/projects/boartrap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toolification of Games</title>
-      <link>/projects/toolification/</link>
+      <link>https://yamadakyohei.github.io/projects/toolification/</link>
       <pubDate>Sun, 03 Feb 2019 20:23:03 +0900</pubDate>
       
-      <guid>/projects/toolification/</guid>
+      <guid>https://yamadakyohei.github.io/projects/toolification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>籾殻堆肥発酵監視システム</title>
-      <link>/projects/momigara/</link>
+      <link>https://yamadakyohei.github.io/projects/momigara/</link>
       <pubDate>Sun, 03 Feb 2019 17:38:21 +0900</pubDate>
       
-      <guid>/projects/momigara/</guid>
+      <guid>https://yamadakyohei.github.io/projects/momigara/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Smarthair with LeapMotion</title>
-      <link>/projects/smarthair/</link>
+      <link>https://yamadakyohei.github.io/projects/smarthair/</link>
       <pubDate>Sun, 03 Feb 2019 17:46:42 +0900</pubDate>
       
-      <guid>/projects/smarthair/</guid>
+      <guid>https://yamadakyohei.github.io/projects/smarthair/</guid>
       <description></description>
     </item>
     
     <item>
       <title>異世界(あちら)のお客様から</title>
-      <link>/projects/achirano/</link>
+      <link>https://yamadakyohei.github.io/projects/achirano/</link>
       <pubDate>Sun, 03 Feb 2019 16:58:24 +0900</pubDate>
       
-      <guid>/projects/achirano/</guid>
+      <guid>https://yamadakyohei.github.io/projects/achirano/</guid>
       <description></description>
     </item>
     
