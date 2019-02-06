@@ -1,16 +1,18 @@
 a:link {
-    text-decoration:none;
     color:#222;
 }
 a:visited {
-    text-decoration:none;
+    text-decoration:underline;
     color:#222;
 }
 a:active {
-    text-decoration:none;
+    text-decoration:underline;
     color:#222;
 }
 a:hover {
     text-decoration:underline;
     color:rgba(0, 0, 0, 0.6);
+}
+.noline {
+    text-decoration:none;
 }
