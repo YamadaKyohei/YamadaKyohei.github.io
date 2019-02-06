@@ -12,12 +12,14 @@
     
     
     <item>
-      <title>NICTオープンハウス2018 学生ポスターセッションでアイデア賞を受賞しました</title>
-      <link>https://yamadakyohei.github.io/topics/nict_openhouse2018/</link>
-      <pubDate>Mon, 04 Feb 2019 18:27:56 +0900</pubDate>
+      <title>東京都中小企業振興公社のWebサイトで共同研究プロジェクトが紹介されました</title>
+      <link>https://yamadakyohei.github.io/topics/kosha_web2019/</link>
+      <pubDate>Tue, 05 Feb 2019 18:27:56 +0900</pubDate>
       
-      <guid>https://yamadakyohei.github.io/topics/nict_openhouse2018/</guid>
-      <description>http://www.nict.go.jp/venture/2018session.html</description>
+      <guid>https://yamadakyohei.github.io/topics/kosha_web2019/</guid>
+      <description>共同研究で進展した経緯を、東京都中小企業振興公社さまにWeb記事にしていただきました。当時私は、共同研究前のデバイスの発明と、共同研究での改良を担当しました。今までの取り組みを俯瞰して整理した内容です。ぜひご一読ください。
+東京都中小企業振興公社, 泰興物産と東京高専が共同開発 無給電・非接触で設備稼働状況をIoTで測定
+http://www.tokyo-kosha.or.jp/iot/product/tycoh.html</description>
     </item>
     
     <item>
@@ -54,6 +56,32 @@
       
       <guid>https://yamadakyohei.github.io/topics/makerfaire2018/</guid>
       <description> 東京ビッグサイト 2018年8月4日(土) - 5日(日) 2箇所のブースで、それぞれのプロジェクトの成果物をデモ展示しました。 共同研究先の泰興物産  https://makezine.jp/event/makers2018/m0203/  電気通信大学 野嶋研究室  https://makezine.jp/event/makers2018/m0051/   </description>
+    </item>
+    
+    <item>
+      <title>NICTオープンハウス2018 学生ポスターセッションでアイディア賞を受賞しました</title>
+      <link>https://yamadakyohei.github.io/topics/nict_openhouse2018/</link>
+      <pubDate>Sat, 30 Jun 2018 18:27:56 +0900</pubDate>
+      
+      <guid>https://yamadakyohei.github.io/topics/nict_openhouse2018/</guid>
+      <description>2018/6/30 「NICTオープンハウス2018」（東京都・小金井市）において開かれた、学生によるポスターセッションに参加しました。 アイディア賞を受賞しました。
+「NICTオープンハウス2018」学生によるポスターセッション ～開催報告
+http://www.nict.go.jp/venture/2018session.html
+NICT, オープンハウス2018 学生によるポスターセッション (開催概要)
+https://www.nict.go.jp/open-house2018/poster00.html
+東京工業高等専門学校, 本校卒業生がNICTオープンハウスの学生ポスターセッションにおいて受賞しました。
+https://www.tokyo-ct.ac.jp/news/receiving-a-prize/</description>
+    </item>
+    
+    <item>
+      <title>高専ワイヤレスIoTコンテスト成果発表会に参加しました</title>
+      <link>https://yamadakyohei.github.io/topics/wtp2018/</link>
+      <pubDate>Fri, 25 May 2018 18:27:56 +0900</pubDate>
+      
+      <guid>https://yamadakyohei.github.io/topics/wtp2018/</guid>
+      <description>高専ワイヤレスIoTコンテストの成果報告会が、2018年5月23日(水)から25日(金)まで東京ビッグサイトで行われました。私はこの3日間、デモンストレーション発表を行いました。
+Links 総務省, 高専ワイヤレスIoT技術実証成果発表会の開催
+http://www.soumu.go.jp/menu_news/s-news/01kiban09_02000258.html</description>
     </item>
     
     <item>
@@ -109,10 +137,10 @@
     
     <item>
       <title>実証実験を行い、新聞2紙に紹介されました</title>
-      <link>https://yamadakyohei.github.io/topics/wtp2018/</link>
+      <link>https://yamadakyohei.github.io/topics/misakubo2015/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yamadakyohei.github.io/topics/wtp2018/</guid>
+      <guid>https://yamadakyohei.github.io/topics/misakubo2015/</guid>
       <description>静岡県浜松市水窪町の空き家をお借りして、電力センサで生活をモニタする実証実験を行いました。 実験の様子は静岡新聞さま、中日新聞さまに記事にしていただきました。
  Yahoo!ニュース, 高齢者スマホで見守り 東京高専が実験  https://headlines.yahoo.co.jp/hl?a=20151205-00000017-at_s-l22 (リンク切れ)   </description>
     </item>
