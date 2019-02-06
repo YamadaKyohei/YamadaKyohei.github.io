@@ -16,3 +16,7 @@ a:hover {
 .noline {
     text-decoration:none;
 }
+
+#posts{
+    text-align: left;
+}
