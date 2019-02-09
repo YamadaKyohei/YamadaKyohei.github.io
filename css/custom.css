@@ -20,3 +20,9 @@ a:hover {
 #posts{
     text-align: left;
 }
+#posts li {
+    margin-bottom:0px; 
+}
+#posts ul {
+    margin-bottom:5px; 
+}
