@@ -26,3 +26,16 @@ a:hover {
 #posts ul {
     margin-bottom:5px; 
 }
+#posts ul {
+    margin-bottom:5px; 
+}
+#hero {
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+#hero p{
+    margin-top: 8px;
+}
+#kube-features {
+    margin-top: 64px;
+}
