@@ -62,7 +62,7 @@
     </item>
     
     <item>
-      <title>籾殻堆肥発酵監視システム</title>
+      <title>もみがら堆肥発酵監視システム</title>
       <link>https://yamadakyohei.github.io/projects/momigara/</link>
       <pubDate>Sun, 03 Feb 2019 17:38:21 +0900</pubDate>
       
@@ -76,7 +76,8 @@
       <pubDate>Sun, 03 Feb 2019 17:46:42 +0900</pubDate>
       
       <guid>https://yamadakyohei.github.io/projects/smarthair/</guid>
-      <description></description>
+      <description>電通大 野嶋研究室では、SmartHairを開発し応用を研究をしています。
+その応用を探る一貫として、私はMaker Faire 2018に合わせてデモシステムを開発しました。</description>
     </item>
     
     <item>
@@ -85,7 +86,8 @@
       <pubDate>Sun, 03 Feb 2019 16:58:24 +0900</pubDate>
       
       <guid>https://yamadakyohei.github.io/projects/achirano/</guid>
-      <description>  </description>
+      <description> 向こうの世界と触れ合いたい、でも出てきて欲しくはない。そんな
+  </description>
     </item>
     
   </channel>
