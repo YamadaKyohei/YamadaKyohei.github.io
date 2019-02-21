@@ -109,33 +109,39 @@
 </figure>
 
 
-<p>非接触かつバッテリーレスで動作</p>
-
-<p>原理の発明・プロトタイピング・量産設計・商品化・各種デモ展示
-などを担当しました。</p>
-
-<p>ｔ
-山田が高専本科の卒業研究で発明した電力センサです。</p>
-
-<p>水戸研究室で継続して研究・実用化にとりくんでいます。</p>
-
-<p>泰興物産株式会社との共同研究です。</p>
-
-<p>複数の企業と導入に向けた試験導入が進行中です。</p>
-
-<p>エンジニアリングサンプル提供可能</p>
-
-<!--　動画を入れる -->
-
-<figure class="center">
-    <img src="/images/powersensor/introduction.png"/> 
-</figure>
+<p>非接触かつバッテリーレスで動作する、電力計測のIoTデバイスです。</p>
 
 
-<figure class="center">
-    <img src="/images/powersensor/system.png"/> 
-</figure>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/rva5VqgxfjM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
 
+
+<h4 id="特徴">特徴</h4>
+
+<ul>
+<li>電力線に非接触なので
+
+<ul>
+<li>機械の配電盤に簡単に設置</li>
+<li>稼働中の機械にも設置できる</li>
+<li>電力網に悪影響を及ぼす、事故の心配がない(非侵襲)</li>
+</ul></li>
+<li>バッテリーレスなので
+
+<ul>
+<li>センサ用電源の敷設不要</li>
+<li>メンテナンスフリー</li>
+</ul></li>
+</ul>
+
+<p>これらの特徴から、<strong>既存の家庭・工場を簡単にIoT化</strong> することができます。</p>
+
+<h4 id="取り組み">取り組み</h4>
+
+<p>複数の企業で実証実験を行い、様々な産業機器(射出成形、基板実装、へら絞り、ディップ成形、建築現場)に簡単に設置可能であることを確認しております。</p>
+
+<p>現在、共同研究先の泰興物産株式会社と事業化し、複数の企業において試験導入が進行中です。</p>
 
 <hr />
 
@@ -144,8 +150,11 @@
 <h6 id="1-センサの設置">(1) センサの設置</h6>
 
 <p>産業機械の多くは、機械の一部が配電盤になっており、簡単にアクセスできます。
-ここの計測したい線に、クランプ状のセンサを取り付けます。
-このとき、IDと設置場所を紐づけてメモしておきます。
+ここの計測したい線に、クランプ状のセンサを取り付けます。</p>
+
+<p>電流が流れると、5秒ごとにデータが送信されます。</p>
+
+<p>設置時に、センサのIDと設置場所を紐づけてメモしておきます。
 <figure class="center">
     <img src="/images/powersensor/installation01.jpg" width="450"/> 
 </figure>
@@ -153,13 +162,73 @@
 
 <h6 id="2-中継機-ゲートウェイ-の設置">(2) 中継機(ゲートウェイ)の設置</h6>
 
-<p>クランプ状のセンサを、計測したい線につける。50 mくらいです。数十個程度のセンサを1個
+<p>センサの信号をインターネットにアップロードするために、小型コンピュータの中継機を設置します。</p>
+
+<p>センサデバイスからの通信距離は50m程度なので、部屋ごとに1個を目安に設置します。
+数十個程度のセンサを1個の中継機で受信できます。</p>
+
+<p>中継器が受信したデータは、携帯電話回線を利用してクラウドに送信されます。
 <figure class="center">
     <img src="/images/powersensor/gateway_installation.jpg" width="450"/> 
 </figure>
 </p>
 
 <h6 id="3-クラウドに登録">(3) クラウドに登録</h6>
+
+<p>(1)で控えておいた設置場所と、IDをクラウドに登録します。
+データはWebサイトにグラフで表示されます。</p>
+
+<p>計測するのは電流なので、電圧(100V, 200V)をかけると消費電力(皮相電力)が得られます。
+その電力を積算すると、消費電力量がわかります。</p>
+
+<hr />
+
+<h4 id="システム構成">システム構成</h4>
+
+<figure class="center">
+    <img src="/images/powersensor/system.png"/> 
+</figure>
+
+
+<!--
+#### 取り組みの経緯
+<figure class="center">
+    <img src="/images/powersensor/introduction.png"/> 
+</figure>
+
+-->
+
+<h4 id="関連ページ">関連ページ</h4>
+
+<ul>
+<li><a href="/topics/kosha_web2019/">東京都中小企業振興公社のWebサイトで共同研究プロジェクトが紹介されました</a></li>
+<li><a href="/topics/ceatec2018/">CEATAC 2018に2ブースで研究成果を出展しました</a></li>
+<li><a href="/topics/makerfaire2018">Maker Faire Tokyo 2018 に2ブースで出展しました</a></li>
+<li><a href="/topics/nict_openhouse2018">NICTオープンハウス2018 学生ポスターセッションでアイディア賞を受賞しました</a></li>
+<li><a href="/topics/wtp2018">高専ワイヤレスIoTコンテスト成果発表会に参加しました</a></li>
+<li><a href="/topics/smartiot_forum">スマートIoT推進フォーラム第3回総会で成果発表しました</a></li>
+<li><a href="/topics/socialimpl2018">社会実装教育フォーラムで社会実装大賞を受賞しました</a></li>
+<li><a href="/topics/patent_powersensor">電力センサの原理について特許を取得しました</a></li>
+<li><a href="/topics/kosen_iot_contest">総務省高専ワイヤレスIoTコンテストに採択されました</a></li>
+<li><a href="/topics/ceatec2017">CEATAC 2017に研究成果を出展し、複数のメディアで紹介されました</a></li>
+<li><a href="/topics/interaction2016">インタラクション2016で発表し、Web記事で紹介されました</a></li>
+<li><a href="/topics/misakubo2015">電力センサの実証実験を行い、新聞2紙に紹介されました</a></li>
+</ul>
+
+<h4 id="外部リンク">外部リンク</h4>
+
+<ul>
+<li>東京高専 水戸研究室，電子デバイス開発
+
+<ul>
+<li><a href="https://mitolab.net/iot/">https://mitolab.net/iot/</a></li>
+</ul></li>
+<li>泰興物産株式会社，無給電・非接触 電力測定IoTデバイス
+
+<ul>
+<li><a href="http://www.tycoh.co.jp/products/997/">http://www.tycoh.co.jp/products/997/</a></li>
+</ul></li>
+</ul>
 
   
 </ul>
