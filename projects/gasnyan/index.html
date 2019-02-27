@@ -104,7 +104,56 @@
 
  
 
+<figure class="center">
+    <img src="/images/gasnyan_th.jpg"/> 
+</figure>
+
+
+<p>二酸化炭素は、1500ppmを超えると学習の集中力等に悪影響を及ぼすことが指摘されており、特に冬の教室などで問題となります。しかし、人間はこれを知覚できないため、換気行動等による改善は難しいという問題があります。</p>
+
+<p>そこで、以下のような仕様を満たす、二酸化炭素濃度を可視化するIoTデバイスを開発しました。</p>
+
+<ul>
+<li>教室から見やすく、学生の注意を引くデザイン</li>
+<li>安価なセンサを機械学習で補正</li>
+<li>クラウドで可視化するため、WiFi機能を搭載</li>
+</ul>
+
+<p>これを用いて東京高専で実証実験を行い、換気を喚起する効果があることが確認されました。</p>
+
+<figure class="center">
+    <img src="/images/gasnyan_classroom.jpg"/> 
+</figure>
+
+
 <h5 id="機械学習によるセンサ誤差補正">機械学習によるセンサ誤差補正</h5>
+
+<p>このデバイスの最大の特徴は、一般的なデバイスと比べ二酸化炭素濃度を安価に計測できる点です。これは、安価で精度の低いセンサ(MQ135)を、ニューラルネットワークで補正することで実現しています。</p>
+
+<p>まず、教室で収集したデータをもとにPythonの機械学習ライブラリ(Scilkit-learn)で計算モデルを作成し、PC上で補正できることを確認しました。
+次に、このニューラルネットワークをC++で記述し、Arduinoライブラリに移植しました。
+これにより、Arduino UnoやESP8266などのマイコンで安価にCO2が計測できるようになりました。</p>
+
+<p><a href="https://github.com/YamadaKyohei/GasNyan/blob/master/arduinoLib/MQ135_NNCO2Estimator/MQ135_NNCO2Estimator.cpp">github リポジトリ</a></p>
+
+<h5 id="発表">発表</h5>
+
+<p>この成果は、第16回情報科学技術フォーラムで報告しました。詳細はこちらの資料をご覧ください。</p>
+
+<ul>
+<li><strong>山田恭平</strong>, 水戸慎一郎, 人との関係性に注目した空気環境可視化デバイスの開発, FIT2017, 2017年9月
+
+<ul>
+<li><a href="/pdf/fit2017paper.pdf">論文 pdf</a></li>
+<li><a href="/pdf/fit2017slide.pdf">スライド pdf</a></li>
+</ul></li>
+</ul>
+
+<h5 id="開発者向け資料">開発者向け資料</h5>
+
+<ul>
+<li><a href="/pdf/GasNyan_tutorial.pdf">ガスにゃんのプログラミング方法</a></li>
+</ul>
 
   
 </ul>
