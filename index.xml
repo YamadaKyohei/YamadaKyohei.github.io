@@ -58,7 +58,7 @@ github リポジトリ
 IVRC2018、GUGEN2018に出場し、GUGENでは共立電子産業賞をいただきました。
 いままではハードウェアは一人で設計することが多かったので、今回初めてチームで開発し、いい経験になりました。 リーダーの岸田さんを始め、デザイン担当のメンバーたちとも密に連携でき、コンセプトを形にすることができたと思います。
 システムの詳細は、岸田さんのプロジェクトページでご覧ください。
-外部リンク  回路のお医者さん  関連ページ  GUGEN 2018 で共立電子産業賞を受賞しました IVRC2018予選大会に2テーマで出場しました  </description>
+外部リンク  回路のお医者さん  関連ページ  GUGEN 2018 で共立電子産業賞を受賞しました IVRC2018予選大会に2テーマで出場しました  担当した配線デバイスの試作回路  製作した基板  </description>
     </item>
     
     <item>
@@ -76,7 +76,7 @@ IVRC2018、GUGEN2018に出場し、GUGENでは共立電子産業賞をいただ�
       <pubDate>Sun, 03 Feb 2019 17:23:58 +0900</pubDate>
       
       <guid>https://yamadakyohei.github.io/projects/boartrap/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -102,13 +102,16 @@ Links  東京都中小企業振興公社, 泰興物産と東京高専が共同�
     </item>
     
     <item>
-      <title>Smarthair with Leap Motion</title>
+      <title>SmartHairをLeap Motionで動かしてみた</title>
       <link>https://yamadakyohei.github.io/projects/smarthair/</link>
       <pubDate>Sun, 03 Feb 2019 17:46:42 +0900</pubDate>
       
       <guid>https://yamadakyohei.github.io/projects/smarthair/</guid>
-      <description>電通大 野嶋研究室では、SmartHairを開発し応用を研究をしています。
-その応用を探る一貫として、私はMaker Faire 2018に合わせてデモシステムを開発しました。</description>
+      <description>   電通大 野嶋研究室では、柔軟アクチュエータ「SmartHair」の応用を研究をしています。
+その一つとして、手をかざして動かすシステムをつくりました。 Leap Motionで手の形を取得し、Unityで画像を表示しています。
+ Maker Faire 2018に展示し、多くの方に体験していただきました。
+ 関連ページ  Maker Faire Tokyo 2018 に2ブースで出展しました  外部リンク  電気通信大学 野嶋研究室，Smart Hair(formerly “Hairlytop Interface”):光駆動型柔軟触覚インタフェース  http://www.nojilab.org/2016/smart-hair/   筐体はレーザー加工機でつくってみました。
+(1) Fusion360で設計  (2) 黒い化粧板、MDF板をレーザーカット  (3) 組み立て  </description>
     </item>
     
     <item>
@@ -172,7 +175,7 @@ Links  スタートアップ&amp;amp;ユニバーシティエリアの東京高�
 私は、「電気通信大学野嶋研究室」と東京高専時代の共同研究先「泰興物産株式会社」の2箇所のブースで製作物をデモ展示しました。
 電気通信大学 野嶋研究室のブース   左下の黒い装置は、今回のために私が新規実装したものです。 多くの方の注目を集め、頑張って作った甲斐がありました。
 詳細はこちらに記載しております。
- SmartHair with Leap Motion  泰興物産(株) + 東京高専水戸研究室 のブース  高専在学時に開発した、電力センサ、ガスにゃん、イノシシ罠センサ等を展示しました。 後輩の皆さんが展示を担当してくださいました。
+ SmartHairをLeap Motionで動かしてみた  泰興物産(株) + 東京高専水戸研究室 のブース  高専在学時に開発した、電力センサ、ガスにゃん、イノシシ罠センサ等を展示しました。 後輩の皆さんが展示を担当してくださいました。
 私の在学時にスタートした取り組みですが、引き継いでくれる後輩たちがいて、大変ありがたいです。 彼らは研究室に所属して半年も満たないですが、既にかなり場数を踏んで成長しており、とても頼もしいです。
 Links  Maker Faire Tokyo 2018 出展者情報, 泰興物産株式会社  https://makezine.jp/event/makers2018/m0203/  Maker Faire Tokyo 2018 出展者情報, 電気通信大学 野嶋研究室  https://makezine.jp/event/makers2018/m0051/  東京高専水戸研究室, Maker Faire Tokyo 2018に参加しました  https://mitolab.net/mft2018/   </description>
     </item>
